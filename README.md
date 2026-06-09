@@ -1,5 +1,5 @@
 # mis-codigos
-🐧 soluciones de los ejercicios del curso DAM + Pildoras Informaticas 💊 + Mouredev(Retos semanales) 🏁 + Ejercicios propuestos por la IA que esta ejercicio el rol de Tutor de DAM  👽
+🐧 soluciones de los ejercicios del curso DAM + Pildoras Informaticas 💊 + Mouredev(Retos semanales) 🏁 + Ejercicios propuestos por la IA que toma el rol de Tutor de DAM  👽
 
 ## 🗺️ Mi Roadmap de Aprendizaje
 
