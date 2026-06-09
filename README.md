@@ -8,6 +8,6 @@ A continuación, documento mi progreso y los ejercicios que voy realizando.
 | # | 💻 Ejercicio / Origen | 🔗 Enlace al código | Estado | 
 | --- | --- | --- | --- |
 | 1 |La Invasión Alienígena/(Tutor DAM)| [Ver codigo](roadmap/invasion_aliens) | ✅|
-| 2 | Colegio Pildoras Informaticas | [Ver codigo](roadmap/colegio)| ✅|
+| 2 | Colegio/(Pildoras Informaticas) | [Ver codigo](roadmap/colegio)| ✅|
 
 
