@@ -11,6 +11,4 @@ A continuación, documento mi progreso y los ejercicios que voy realizando.
 | 2 | Colegio/(Pildoras Informaticas) | [Ver codigo](roadmap/colegio)| ✅|
 | 3 | Biblioteca/(Pildoras Informaticas) | [Ver codigo](roadmap/biblioteca)| ✅|
 | 4 | Flota Drones Amazon/(Tutor DAM) | [Ver codigo](roadmap/drones_amazon)| ✅|
-
-
-
+| 5 | Generador Contraseñas/(Pildoras Informaticas) | [Ver codigo](roadmap/contraseñas_aleatorias)| ✅|
