@@ -13,4 +13,6 @@ A continuación, documento mi progreso y los ejercicios que voy realizando.
 | 4 | Flota Drones Amazon/(Tutor DAM) | [Ver codigo](roadmap/drones_amazon)| ✅|
 | 5 | Generador Contraseñas/(Pildoras Informaticas) | [Ver codigo](roadmap/contraseñas_aleatorias)| ✅|
 | 6 | Cuentas Banco/(Tutor DAM) | [Ver codigo](roadmap/banco)| ✅|
-| 7 | Gestion Empleados/(Pildoras Informaticas) | [Ver codigo](roadmap/gestion_empleados)| ✅|
+| 7 | Gestion Empleados/(Pildoras Informaticas) | [Ver codigo](roadmap/gestion_empleados)| ✅
+| 8 | Core Bancario v2.0 (Refactorización Arquitectónica)/Tutor DAM | [Ver codigo](roadmap/finalPOO)| ✅
+
