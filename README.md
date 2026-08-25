@@ -17,3 +17,5 @@ A continuación, documento mi progreso y los ejercicios que voy realizando.
 | 08 | Core Bancario v2.0 (Re-factorización Arquitectónica)/Tutor DAM/Java | [Ver codigo](roadmap/finalPOO)| ✅
 | 09 | Generador GamerTags/Udemy/Python | [Ver codigo](roadmap/generador_gamertags)| ✅
 | 10 | Histórico de Eventos/Píldoras Informáticas/Java | [Ver codigo](roadmap/historico_eventos)| ✅
+| 11 | Procesador de Texto Basico/Píldoras Informáticas/Java | [Ver codigo](roadmap/procesador_texto)| ✅
+
